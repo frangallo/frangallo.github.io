@@ -548,14 +548,6 @@ img {
   font-weight: bold;
 }
 
-/*#zoozer{
-  height: 260px;
-  width: 360px;
-}*/
-
-/*.section{
-  margin: auto;
-  position: relative;
-  padding: 100px;
-  text-align: center;
-}*/
+section.success a, section.success a:hover{
+  border: 2px solid;
+}
