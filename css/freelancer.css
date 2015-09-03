@@ -555,3 +555,7 @@ section.success a, section.success a:hover{
 a.btn.btn-lg.btn-outline{
   border: 2px solid;
 }
+
+.modal-photo{
+  max-width: 62%;
+}
